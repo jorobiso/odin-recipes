@@ -1,0 +1,1 @@
+I will build a basic recipe website meant to hone the basics in HTML. There will be a main page that links to some recipes.
